@@ -1,5 +1,5 @@
 # iDash
-![foo](assets/heart.png)
+<img src="assets/heart.png"/>
 
 A minimalist mental healthcare dashboard with end-to-end encryption.
 
