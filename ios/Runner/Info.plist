@@ -31,7 +31,7 @@
 			<string>GoogleSignIn</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.718962825258-lm270a4o6mlteccms91oc4s5g8kq9v2u</string>
+				<string>com.googleusercontent.apps.386849417277-32bq82vi034sd3h1sqejvnlaokkaagf5</string>
 			</array>
 		</dict>
 		<dict>
@@ -44,6 +44,7 @@
 				<string>com.googleusercontent.apps.718962825258-l05ji26518shue5n46a36338sihre955</string>
 			</array>
 		</dict>
+		<dict/>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>

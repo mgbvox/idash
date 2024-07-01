@@ -22,7 +22,7 @@ class AuthGate extends StatelessWidget {
                 // should match CLIENT_ID in GoogleService-Info.plist
                 // Add REVERSED_CLIENT_ID to approved URL schemes in Xcode
                 clientId:
-                    "718962825258-l05ji26518shue5n46a36338sihre955.apps.googleusercontent.com",
+                    "386849417277-32bq82vi034sd3h1sqejvnlaokkaagf5.apps.googleusercontent.com",
               ),
             ],
             headerBuilder: (context, constraints, shrinkOffset) {
