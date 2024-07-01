@@ -1,5 +1,5 @@
 # iDash
-<img src="assets/heart.png" align="center"/>
+<img src="assets/heart.png" align="center" width="64" height="64"/>
 
 A minimalist mental healthcare dashboard with end-to-end encryption.
 
